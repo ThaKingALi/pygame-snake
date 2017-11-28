@@ -1,7 +1,6 @@
 '''
 Snake game.
-Authors:
-<insert the names of your teammates here>
+Authors: Ali, Andre, Mykaila
 '''
 
 import pygame
@@ -257,3 +256,4 @@ def start_game():
 
 # Start the snake game.
 start_game()
+
