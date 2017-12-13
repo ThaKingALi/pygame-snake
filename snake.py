@@ -1,7 +1,9 @@
 '''
 Snake game.
 Authors:
-<insert the names of your teammates here>
+<Shakir Muhammad>
+<MyKaila Alexander>
+<Andre Paisley>
 '''
 
 import pygame
